@@ -1,3 +1,4 @@
 # allsee-web
 
--Patel Krish
+- Patel Krish
+- Isha Hansalpara
