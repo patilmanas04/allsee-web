@@ -3,3 +3,4 @@
 - Patel Krish
 - Isha Hansalpara
 - Shreya Sheta
+- Tisha Kedar
